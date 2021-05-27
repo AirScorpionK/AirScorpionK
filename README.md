@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kruszewski
 - 👀 I’m interested in programing and IT
 - 🌱 I’m currently learning python and java script
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me write on discord AirScorpion_K#0944
 
 <!---

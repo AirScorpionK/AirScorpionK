@@ -1,5 +1,6 @@
+## Welcome to my profile!
 - 👋 Hi, I’m @Kruszewski
-- 👀 I’m interested in programing and IT
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning python
 
 <!---

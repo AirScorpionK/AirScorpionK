@@ -7,7 +7,6 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 👋 Hi, I’m @Kruszewski
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning python
 - ✉️ Feel free to reach me: [franciszek@kruszew.ski](mailto:franciszek@kruszew.ski)

@@ -15,7 +15,6 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kruszewski&show_icons=true&theme=github_dark" alt="Github stats"> &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kruszewski&layout=compact&theme=github_dark&exclude_repo=ai-fork" alt="Top lang">
 </p>
 
 ---

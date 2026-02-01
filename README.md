@@ -13,7 +13,11 @@ Welcome to my GitHub profile!
 ## ⚙️ My stack & tech
 [![My Skills](https://skillicons.dev/icons?i=java,php,git,github,apple,linux,postgres,vscode,phpstorm,clion,neovim)](https://skillicons.dev)
 
-## 🎓 Learning
-[![My Skills](https://skillicons.dev/icons?i=c,rust,py,go,docker)](https://skillicons.dev)
+## 🎓 Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=java,py,rust)](https://skillicons.dev)
+
+## Planning to learn
+[![My Skills](https://skillicons.dev/icons?i=c,go,docker)](https://skillicons.dev)
+
 ---
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!

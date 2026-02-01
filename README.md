@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 ## 🎓 Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=java,py,rust)](https://skillicons.dev)
 
-## Planning to learn
+## 📋 Planning to learn
 [![My Skills](https://skillicons.dev/icons?i=c,go,docker)](https://skillicons.dev)
 
 ---
